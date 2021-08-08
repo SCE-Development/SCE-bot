@@ -9,6 +9,7 @@
     "fix": "./node_modules/.bin/eslint ./ --fix"
   },
   "dependencies": {
+    "@aws-sdk/client-lambda": "^3.25.0",
     "apollo-server": "^2.18.2",
     "apollo-server-express": "^2.18.2",
     "discord.js": "^12.5.3",

@@ -6,5 +6,8 @@
     "EVENTS_CAL": "",
     "DISCORD_API_URL": "http://localhost:5000",
     "prefix": "s!",
-    "SCE_API_URL": "http://sce.engr.sjsu.edu"
+    "SCE_API_URL": "http://sce.engr.sjsu.edu",
+    "aws_access_key_id": "XXXXXXXXXXXXXXXXXXXX",
+    "aws_secret_access_key": "XXXXXXXXXXXXXXXXXXXXXXXX",
+    "aws_function_name": "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 }
