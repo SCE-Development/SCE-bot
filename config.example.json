@@ -1,14 +1,14 @@
 {
-  "API_TOKEN": "token goes here",
-  "DISCORD_API_URL": "http://localhost:5000",
-  "prefix": "s!",
-  "SCE_API_URL": "http://sce.engr.sjsu.edu",
-  "ERROR_CHANNEL_ID": "xxxxxxxxxxxxxx",
-  "CORE_V4_API_KEY": "xxxxxxxxxxxxxx",
-  "DEFAULT_ROLES": [],
-  "REACTIONS": {
-    "MESSAGE_ID": {
-      "EMOJI": "ROLE_ID"
+    "API_TOKEN": "token goes here",
+    "DISCORD_API_URL": "http://localhost:5000",
+    "prefix": "s!",
+    "SCE_API_URL": "http://sce.engr.sjsu.edu",
+    "ERROR_CHANNEL_ID": "xxxxxxxxxxxxxx",
+    "CORE_V4_API_KEY": "xxxxxxxxxxxxxx",
+    "DEFAULT_ROLES": [],
+    "REACTIONS": {
+      "MESSAGE_ID": {
+        "EMOJI": "ROLE_ID"
+      }
     }
   }
-}
